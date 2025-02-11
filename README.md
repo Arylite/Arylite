@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Arylite
-
+![image](https://github.com/Arylite/Arylite/blob/main/helloWorld.png?raw=true)
 I'm a passionate developer focused on building innovative software solutions. Currently, I’m working on a **SaaS platform** for **webtoon hosting**, a **game project** with a friend, and exploring new technologies for optimizing both backend systems and client-side performance.
 
 ---
